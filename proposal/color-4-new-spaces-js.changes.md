@@ -6,6 +6,7 @@
 * Fix typo in `changedValue` definition of `color.change`.
 
 ## Draft 1.5
+## draft 2.0
 
 * Clarify that deprecated SassColor getters (e.g. `red`, `blue`, etc.) convert
   color to a legacy space before returning channel value.
